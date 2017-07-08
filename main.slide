@@ -1,0 +1,71 @@
+3D LED CUBE開発のお誘い
+
+July. 8, 2017
+
+
+Yoshitake Hamano
+
+
+
+
+* Maker Faire Tokyo 2017とは
+
+* 
+
+.image images/maker_faire_tokyo.png _ 200
+
+オライリー・ジャパンが主催する国内最大のMakerのイベント
+
+- 開催日：2017.08.05-08.06
+- 場所　：Tokyo Big Sight
+- [[http://makezine.jp/event/mft2017/][Maker Faire Tokyo 2017]]
+
+* 3D LED CUBE
+
+* 
+
+.image images/3d_led_cube.jpg _ 200
+
+- 等身大LED CUBE
+- LEDを3次元に配置した等身大のディスプレイ
+- RGB各色4,096個、つまり合計12,288個のLED
+- FPGAでLEDを制御
+- Raspberry piで画像処理
+
+* 
+
+.image images/3d_led_cube.jpg _ 200
+
+- Fujixerox Advanced Technologyの勉強会チームが主体
+- Maker Faire Tokyo2016向けにハードを作成済
+- Maker Faire Tokyo2017に参加決定
+
+* 3D LED CUBE(LED Contents)開発のお誘い
+
+* 
+
+- Maker Faire Tokyo 2017(2017.08.05-08.06)に向けて開発開始
+- 3D LED CUBE(LED Contents)開発を一緒に開発しませんか？
+
+* 
+
+.image images/3d_led_cube_design.png _ 600
+
+- ハードウェアなしで動作確認出来るSimulator有
+- Go言語から制御できるようにする予定
+- 作って頂いたLED ContentsはMaker Faire Tokyo2017で投影予定
+- YMMで動作検証日を設定予定（1回程度？）
+
+* 
+
+- 興味がある人は、oed0cow6oy5@gmail.comまで連絡ください
+- [[https://github.com/hiroshi-mikuriya/3d_led_cube][GitHub > LED Contents]]
+- [[https://github.com/hiroshi-mikuriya/3d_led_cube_receiver][GitHub > Receiver]]
+- [[https://github.com/hiroshi-mikuriya/3d_led_cube_wiki][GitHub > Wiki]]
+
+* Thank you
+
+.image images/yeah.png
+
+July. 8, 2017
+Yoshitake Hamano
